@@ -1,6 +1,7 @@
 site_name: IAOS docs
 nav:
   - Home: README.md
+  - Rationae: rationale.md
 theme:
   name: material
 
